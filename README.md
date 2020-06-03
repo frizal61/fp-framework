@@ -28,6 +28,6 @@ Jika menjadi user :
 jalankan url (/login) dengan ketentuan setelah melakukan login dan telah memiliki akun.
 
 Jika menjadi admin :
-jalankan url (/loginadmin) dengan email:admin@admin.com password:12345
+jalankan url (/loginadmin) dengan email:admin@admin.com password:password
 
 Thanks to https://stackoverflow.com/
